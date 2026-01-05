@@ -1,0 +1,75 @@
+Name: Anna
+Surname: Smith
+Age: 25
+City: Tirana
+Hotel information: 
+Hotel Hilton
+Price: 3037 TL
+Room Number(s) 1096 119 21 
+Room Type: Gold++
+Beds: 3
+Room Type: Standard
+Beds: 3
+Room Type: Honeymoon Suite
+Beds: 2
+Hotel Type: Four Star
+Breakfast included
+Breakfast Type: A la Carte
+
+Event information: 
+
+Coffee Festival
+
+Date: 10 January
+Duration: 3 hrs
+Ticket: 230.0 TL
+
+
+Type Of Ticket:normal
+Brand: Lavazza
+Information for Festival event: 
+Festival can be before noon or after noon
+Kids are NOT allowed as it can be dangerous for them and they may get lost
+Get ready for a lot of fun!!
+In this festival you can buy coffee from the coffee stands
+ and take part in fun competitions
+ or take beautiful pictures in the photobooth
+
+The stand of Lavazza Coffee is right near the entrance! 
+Enjoy!
+Event information: 
+Museum 
+Date: 10 January
+Duration: 6 hrs
+Ticket: 75.0 TL
+
+
+Number of tickets: 3
+
+Information for Museum event: 
+The museum is a walking-distance of 10 minutes from the hotel
+The group who is going to the museum will leave the hotel at 9am and come back at 7pm
+You can spend a day at the museum by walking through different exhibits and learning new things. 
+You can look at paintings, old objects, and interactive displays.
+Event information: 
+Museum 
+Date: 11 January
+Duration: 6 hrs
+Ticket: 75.0 TL
+
+
+Number of tickets: 3
+
+Information for Museum event: 
+The museum is a walking-distance of 10 minutes from the hotel
+The group who is going to the museum will leave the hotel at 9am and come back at 7pm
+You can spend a day at the museum by walking through different exhibits and learning new things. 
+You can look at paintings, old objects, and interactive displays.
+
+Payment information: 
+3342.5 TL
+Payed by: Anna Smith
+Date payed: 2026-01-05
+
+We hope you enjoy your holiday!
+ Thank you for choosing us.
