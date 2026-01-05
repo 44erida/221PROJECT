@@ -4,4 +4,3 @@ Erida Puka (leader)
 Merve Tanşafak
 Artun Konyalı
 
-grade: 9.5/10
